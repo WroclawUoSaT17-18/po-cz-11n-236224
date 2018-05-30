@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Darmowy Kurs CSS</title>
+
+    <style>
+        #blok {
+            position: relative;
+            width: 500px;
+            height: 2.2em;
+            line-height: 2.2em;
+            margin: 0 auto;
+            border: 3px solid #DDD;
+            font-size: 1.5em;
+            background-color: #EEE;
+            overflow: hidden;
+        }
+
+            #blok > p {
+                position: absolute;
+                margin: 0;
+                white-space: nowrap;
+                animation: przesun 30s linear infinite;
+                -webkit-animation: przesun 30s linear infinite; 
+            }
+
+                #blok > p:hover {
+                    animation-play-state: paused;
+                    -webkit-animation-play-state: paused;
+                }
+
+        @keyframes przesun {
+            0% {
+                transform: translateX(0);
+                padding-left: 110%;
+            }
+
+            100% {
+                transform: translateX(-100%);
+                padding-left: 110%;
+            }
+        }
+
+        @-webkit-keyframes przesun
+        {
+            0% {
+                -webkit-transform: translateX(0);
+                padding-left: 110%;
+            }
+
+            100% {
+                -webkit-transform: translateX(-100%);
+                padding-left: 110%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="blok">
+        <p>Ten tekst w tym elemencie - p - będzie poruszał się, gdy dodamy do niego odpowiednią animację oraz właściwości CSS.</p>
+    </div>
+
+</body>
+</html>

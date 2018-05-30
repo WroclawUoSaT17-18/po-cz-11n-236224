@@ -1,0 +1,308 @@
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\adoptujkota.dll.config
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\adoptujkota.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\adoptujkota.pdb
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\csc.exe
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\csc.exe.config
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\csc.rsp
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\csi.exe
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\csi.exe.config
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\csi.rsp
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.AppContext.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Console.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\vbc.exe
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\vbc.exe.config
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\vbc.rsp
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Helpers.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Mvc.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Razor.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Razor.xml
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.xml
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Helpers.xml
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Mvc.xml
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.csprojResolveAssemblyReference.cache
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.csproj.CoreCompileInputs.cache
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.csproj.CopyComplete
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.dll
+C:\Users\Ewelinka\Desktop\Strona\Strona\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.pdb
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\adoptujkota.dll.config
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\adoptujkota.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\adoptujkota.pdb
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\csc.exe
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\csc.exe.config
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\csc.rsp
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\csi.exe
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\csi.exe.config
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\csi.rsp
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.AppContext.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Console.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\vbc.exe
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\vbc.exe.config
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\vbc.rsp
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Helpers.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Mvc.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Razor.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Razor.xml
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.xml
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Helpers.xml
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\System.Web.Mvc.xml
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.csprojResolveAssemblyReference.cache
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.csproj.CoreCompileInputs.cache
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.csproj.CopyComplete
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.dll
+C:\Users\Ewelinka\Desktop\ASP.net\Strona\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.pdb
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\adoptujkota.dll.config
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\adoptujkota.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\adoptujkota.pdb
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\csc.exe
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\csc.exe.config
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\csc.rsp
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\csi.exe
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\csi.exe.config
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\csi.rsp
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.AppContext.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Console.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\vbc.exe
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\vbc.exe.config
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\vbc.rsp
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\System.Web.Helpers.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\System.Web.Mvc.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\System.Web.Razor.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\System.Web.Razor.xml
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.xml
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\System.Web.Helpers.xml
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\System.Web.Mvc.xml
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.csprojAssemblyReference.cache
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.csproj.CopyComplete
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.dll
+C:\Users\Kamil\Desktop\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.pdb
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\adoptujkota.dll.config
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\adoptujkota.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\adoptujkota.pdb
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\csc.exe
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\csc.exe.config
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\csc.rsp
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\csi.exe
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\csi.exe.config
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\csi.rsp
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.AppContext.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Console.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\vbc.exe
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\vbc.exe.config
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\vbc.rsp
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\System.Web.Helpers.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\System.Web.Mvc.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\System.Web.Razor.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\System.Web.Razor.xml
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.xml
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\System.Web.Helpers.xml
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\System.Web.Mvc.xml
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.csprojAssemblyReference.cache
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.csproj.CopyComplete
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.dll
+C:\Users\Kamil\Desktop\acess fundacja\adptuj\adoptujkota\adoptujkota\obj\Debug\adoptujkota.pdb
